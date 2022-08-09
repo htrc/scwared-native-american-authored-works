@@ -7,8 +7,8 @@ This site is the home of the Native-Authored Works_ workset, a collection of Nat
 The github repository, of which this site is a part, includes an introduction to the workset, a list of volumes in the workset, data sets derived from analysis of the workset, and a project report discussing the process of curating and analyzing the workset.
 
 ## Contents
-* Introduction
-* Repository
+* [Introduction](introduction.md)
+* [Repository](https://github.com/jawalsh/cws_test.io)
 * Project Report
 
 ## Acknowlegements
