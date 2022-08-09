@@ -1,5 +1,5 @@
-[repo] https://github.com/jawalsh/scwared_test "GitHub repository"
-[ht] https://hathitrust.org "HathiTrust Digital Library"
+[repo]: https://github.com/jawalsh/scwared_test "GitHub repository"
+[ht]: https://hathitrust.org "HathiTrust Digital Library"
 # Native-authored works in the [HathiTrust Digital Library](http://hathitrust.org)
 
 ## A workset curated by Kun Lu, Raina Heaton, and Raymond Orr in collaboration with the [HathiTrust Research Center](http://analytics.hathitrust.org)
