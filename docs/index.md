@@ -1,4 +1,4 @@
-[repo] https://github.com/jawalsh/cws_test.io "GitHub repository"
+[repo] https://github.com/jawalsh/scwared_test "GitHub repository"
 [ht] https://hathitrust.org "HathiTrust Digital Library"
 # Native-authored works in the [HathiTrust Digital Library](http://hathitrust.org)
 
