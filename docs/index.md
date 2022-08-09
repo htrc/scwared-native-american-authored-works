@@ -1,14 +1,16 @@
+[repo] https://github.com/jawalsh/cws_test.io "GitHub repository"
+[ht] https://hathitrust.org "HathiTrust Digital Library"
 # Native-authored works in the [HathiTrust Digital Library](http://hathitrust.org)
 
 ## A workset curated by Kun Lu, Raina Heaton, and Raymond Orr in collaboration with the [HathiTrust Research Center](http://analytics.hathitrust.org)
 
-This site is the home of the Native-Authored Works_ workset, a collection of Native-authored volumes found in the [HathiTrust Digital Library](HathiTrust Digital Library). 
+This site is the home of the _Native-Authored Works_ workset, a collection of Native-authored volumes found in the [HathiTrust Digital Library](HathiTrust Digital Library). 
 
-The github repository, of which this site is a part, includes an introduction to the workset, a list of volumes in the workset, data sets derived from analysis of the workset, and a project report discussing the process of curating and analyzing the workset.
+The GitHub [repository][repo], of which this site is a part, includes an introduction to the workset, a list of volumes in the workset, data sets derived from analysis of the workset, and a project report discussing the process of curating and analyzing the workset.
 
 ## Contents
 * [Introduction](introduction.md)
-* [Repository](https://github.com/jawalsh/cws_test.io)
+* [Repository][repo]
 * Project Report
 
 ## Acknowlegements
