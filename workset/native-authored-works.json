@@ -60,20 +60,20 @@
     "type": "Workset",
     "description": "A list of works authored by Native Americans in HathiTrust",
     "created": "2021-11-09",
-    "creators": [
-        {"creator": "Kun Lu"},
-        {"creator": "Raina Heaton"},
-        {"creator": "Raymond Orr"}
-     ],
-    "contributors": [
-        {"contributor": "Isabella Magni"},
-        {"contributor": "John A. Walsh"},
-        {"contributor": "J. Stephen Downie"},
-        {"contributor": "Maryemma Graham"},
-        {"contributor": "Yu “Marie” Ma"},
-        {"contributor": "Glen Layne-Worthey"},
-        {"contributor": "Ryan Dubnicek"},
-        {"contributor": "Janet Swatscheno"}
+    "creator": [
+        "Kun Lu",
+        "Raina Heaton",
+        "Raymond Orr"
+    ],
+    "contributor": [
+        "Isabella Magni",
+        "John A. Walsh",
+        "J. Stephen Downie",
+        "Maryemma Graham",
+        "Yu “Marie” Ma",
+        "Glen Layne-Worthey",
+        "Ryan Dubnicek",
+        "Janet Swatscheno"
     ],
     "extent": 919,
     "title": "Native-authored workset",
