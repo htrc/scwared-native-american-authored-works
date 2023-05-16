@@ -11,7 +11,7 @@ The GitHub [repository][repo], of which this site is a part, includes an introdu
 ## Contents
 * [Introduction](introduction.md)
 * [Repository][repo]
-* Project Report
+* [Project Report](final-report.md)
 
 ## Acknowlegements
 <img style="float:right; padding-left:.5em; max-width: 200px; border-left: 1px solid black; margin-left:.5em;" src="images/mellon/Mellon_Logomark_Lockup_Black.jpg"/>This curated workset was developed as part of Scholar-Curated Worksets for Analysis, Re-use, and Dissemination initiative, generously supported by the [Mellon Foundation](http://mellon.org). 
