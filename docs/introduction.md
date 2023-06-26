@@ -156,9 +156,8 @@ publication dates of these items range from 1826 to 2009. These works
 are contributed by 358 distinct native authors. Figure 1 shows the
 distribution of works over years.
 
-![](media/image2.png)
-
-Figure 1. Number of works over years in the IPL workset.
+![Number of works over years in the IPL workset](images/fig1.png)  
+_Figure 1. Number of works over years in the IPL workset._
 
 ### NAL workset
 
@@ -201,9 +200,8 @@ Out of 2,013 titles in the IPL dataset that are searched in HathiTrust,
 over years is shown below except for 33 titles that we do not have
 publication date information:
 
-![](media/image3.png)
-
-Figure 2. Comparison of publication dates on IPL dataset.
+![Comparison of publication dates on IPL dataset.](images/fig2.png)  
+_Figure 2. Comparison of publication dates on IPL dataset._
 
 The date range of the uncovered works is wider than that of the covered
 works, ranging from 1768 to 2013, but the distributions for covered and
@@ -263,9 +261,8 @@ lower in HathiTrust, which is consistent with what is observed in the
 IPL dataset.</span>* Interestingly, HathiTrust covers some old titles
 that were published before 1928.
 
-![](media/image1.png)
-
-Figure 3. Comparison of publication dates on NAL dataset.
+![Comparison of publication dates on NAL dataset.](images/fig3.png)  
+_Figure 3. Comparison of publication dates on NAL dataset._
 
 #### Tribe representation
 
@@ -354,7 +351,7 @@ sample size of the NAL collection.
 
 Reference:
 
-<div class="bibl">
+<div class="bibl" style="padding-left:2em; text-indent:-2em;">
 Blakesley Lindsay, E. (2003). Native American Authors. *Reference
 Reviews, 17*(5), 41-42.
 </div>
