@@ -374,4 +374,6 @@ Greenfield, Patricia, M. (2013). The Changing Psychology of Culture From 1800 Th
 [10.1177/0956797613479387](http://dx.doi.org/10.1177/0956797613479387)
 </div>
 
+---
+
 <a id="note01"/>\[[1](#ref01)] <https://hbw.ku.edu/>
