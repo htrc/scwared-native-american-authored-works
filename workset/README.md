@@ -47,6 +47,21 @@ This is a [JSON-LD](https://json-ld.org) file with some basic metadata about the
     ]
 }
 ```
+Here is detailed information about each field in the workset JSON-LD:
+
+|property | range | type | cardinality | description |
+|:--- |:--- |:---  |:--- |:--- |
+id | http://www.w3.org/2000/01/rdf-schema#Resource | URL | 1 | The URL that resolves to this document |
+type | http://www.w3.org/2000/01/rdf-schema#Resource | URL | 1 | The URL representing an HTRC workset |
+created | http://www.w3.org/2001/XMLSchema#date | date (YYYY-MM-DD) | 1 | The unary property describing the date on which the workset was created. |
+extent | http://www.w3.org/2001/XMLSchema#integer | integer > 0	1 | The unary property describing the amount of content gathered into a Workset. |
+gathers	| http://www.w3.org/2000/01/rdf-schema#Resource | URL | 1 or more | The relationship between a Workset and an item (Handle URL) that has been gathered into it. |
+creator	| http://purl.org/dc/terms/Agent | string | 0 or 1 | The unary property naming the agent responsible for creating the collection. (New worksets don't have this value because HathiTrust no longer includes this info when sending collections, but some older worksets were created when HathiTrust was still sending over the info) |
+title | http://www.w3.org/2001/XMLSchema#string	| string | 1 | The unary property that captures a string value that names the workset. |
+hasVisibility | string | 1 | The unary property that sets a Worksets to be 'public' or 'private'. Only worksets where hasVisiblity is set to 'public' are available through the API. |
+intendedForUse | http://www.w3.org/2000/01/rdf-schema#Resource | URL | 1 | This relationship captures the research context in which the creator(s) intend the collection to be used in. A workset MUST have at least one `htrc:intendedForUse` relation which names the HathiTrust Research Center as a research context. A workset MAY have additional named research contexts through additional `htrc:intendedForUse` relations. These contexts may be as broad as other named research centers or as narrow as particular algorithms or machine workflows. However, current workset generation tools do not allow adding additional `htrc:intendedForUse` values, so you can expect this to only ever have the HTRC value. |
+description | http://www.w3.org/2000/01/rdf-schema#Literal | string | 0 or 1 | The unary property that describes the workset in natural language![image](https://github.com/htrc/scwared-native-american-authored-works/assets/16159475/f5343735-1e56-4c74-8309-a8f75fddd9c1)|
+
 
 Unlike the CSV file described above, the JSON file may not be uploaded directly in HTRC’s existing tools to create a new workset; however, the JSON file is the canonical source of metadata and volume IDs for the workset.
 
