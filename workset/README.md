@@ -1,7 +1,7 @@
 README for workset directory
 
 # Introduction
-The public version of the workset is hosted by the [HathiTrust Research Center](http://analytics.hathitrust.org/) (HTRC) at <insert-link-here>.
+The public version of the workset is hosted by the [HathiTrust Research Center](http://analytics.hathitrust.org/) (HTRC) at <https://analytics.hathitrust.org/worksets/researcher806/Native-authored%20workset>.
 
 The `workset` directory contains multiple data files with metadata about the workset and its volumes. Details about each file, its format, and structure are included below.
 
@@ -9,7 +9,7 @@ The `workset` directory contains multiple data files with metadata about the wor
 
 # `native-authored-works.csv`
 
-This is a simple CSV file listing the volume ID and some additional metadata for each volume in the workset. The CSV file may be edited by removing and adding volume, and the edited file may used as the basis for a new workset. The full CSV file or simply a text file with a list of volume IDs may be uploaded to <insert-link-here> to create a new workset.
+This is a simple CSV file listing the volume ID and some additional metadata for each volume in the workset. The CSV file may be edited by removing and adding volume, and the edited file may used as the basis for a new workset. The full CSV file or simply a text file with a list of volume IDs may be uploaded to <https://analytics.hathitrust.org/uploadworkset> to create a new workset.
 
 The columns in the CSV file are:
 
@@ -48,7 +48,7 @@ This is a [JSON-LD](https://json-ld.org) file with some basic metadata about the
 }
 ```
 
-Unlike the CSV file described above, the JSON file may not be used directly in <insert-link-here> to create a new workset; however, the JSON file is the canonical source of metadata and volume IDs for the workset.
+Unlike the CSV file described above, the JSON file may not be uploaded directly in HTRC’s existing tools to create a new workset; however, the JSON file is the canonical source of metadata and volume IDs for the workset.
 
 
 
