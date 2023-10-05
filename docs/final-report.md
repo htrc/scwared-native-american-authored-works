@@ -38,15 +38,16 @@ The authors and works found from the IPL website and in the NAL collection were 
 Table 1 summarizes the coverage of Native-authored works in HathiTrust. The following content will focus on the IPL and NAL datasets since they represent the majority of the matches in HathiTrust.
 
 | Dataset | # of titles searched | # of titles found in HT | Coverage |
-| :------ | :------------------- | :----------------------- | :-------- | 
-| IPL     | 2013                 | 900                     | 44.71% |
-| NAL     | 122                  | 37                      | 30.33% |
-| LSA dissertations | 34         | 0                       | 0%     |
+| :------ | :------------------- | :---------------------- | :------  | 
+| IPL     | 2013                 | 900                     | 44.71%   |
+| NAL     | 122                  | 37                      | 30.33%   |
+| LSA dissertations | 34         | 0                       | 0%       |
+
 _Table 1: Coverage of Native authored works in HathiTrust._
 
 The IPL workset has 900 titles in HathiTrust by Native authors. This corresponds to 1,061 HathiTrust records, since one title may match multiple records, in instances of different editions or multi-volume works. And one record may also correspond to multiple duplicate volumes in HathiTrust. This results in 1,304 unique items in HathiTrust. The publication dates of these items range from 1826 to 2009. These works are contributed by 358 distinct Native authors. The NAL workset includes 37 titles in HathiTrust by Native authors. One of the titles is “Handbook of North American Indians”, a series which we excluded in the subsequent analysis since it is edited and primarily contributed to by non-Native authors. Table 2 summarizes the statistics of the Native-authored worksets:
 
-|  | # of titles | # of Hathi records | # of Hathi items | Publication date range | # of Native authors | 
+| # of titles | # of Hathi records | # of Hathi items | Publication date range | # of Native authors | 
 | :------ | :------------------- | :----------------------- | :-------- | :-------- | :-------- | 
 | IPL           | 900           | 1061       | 1304 | 1826 to 2009 | 358 |
 | NAL            | 36          | 45     | 56 | 1900 to 2006 | 15 |
