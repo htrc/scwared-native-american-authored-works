@@ -52,6 +52,7 @@ The IPL workset has 900 titles in HathiTrust by Native authors. This corresponds
 | IPL            | 900           | 1061       | 1304 | 1826 to 2009 | 358 |
 | NAL            | 36          | 45     | 56 | 1900 to 2006 | 15 |
 | Total (after removing overlap) | 919  | 1083  | 1322 | 1826 to 2009 | 369 |
+
 _Table 2: A summary of statistics in the Native-authored worksets._
 
 There is overlap between the NAL and IPL worksets: Out of the 36 matched titles, 45 matched records, and 56 matched items in NAL, 17 titles, 23 records and 27 items are also matched in the IPL workset, respectively. Four of the 15 NAL authors are also included in the IPL workset. The total number of matches after removing overlap is listed in the last row of Table 2.
