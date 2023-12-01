@@ -25,7 +25,7 @@ Each entity file has the following columns:
 | start_char   | The number, by page, of the first character in the entity string      |
 | end_char  | The number, by page, of the last character in the entity string      |
 
-The entity types produced are standard based on the NER implementation, with the `en_core_web_trf` model, upon which our custom model is based, producing the following tags:
+The entity types produced are standard based on the NER implementation, spaCy transformer using the `en_core_web_trf` model, producing the following tags:
 
 | Entity Label    | Description |
 | ----------- | ----------- |
